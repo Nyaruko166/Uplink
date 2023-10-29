@@ -1,10 +1,10 @@
 {
   "mainMenu": {
-    "state": "Đang trong màn hình chính",
+    "state": "Đang trong màn hình chính.",
     "largeImageText": "Main Menu"
   },
   "loadingGame": {
-    "state": "Đang load mods",
+    "state": "Đang load mods.",
     "largeImageText": "AowVN's Farming Valley",
     "details": "%d mods"
   },
