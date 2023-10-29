@@ -14,7 +14,7 @@
         "unknown": "Unknown Server",
         "ip": "IP: %s"
       },
-      "state": "Đang chơi với bạn \u003c3",
+      "state": "Đang trong server \u003c3",
       "details": "IGN: %s"
     },
     "singlePlayer": {
