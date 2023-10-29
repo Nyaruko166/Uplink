@@ -4,9 +4,9 @@
     "largeImageText": "Main Menu"
   },
   "loadingGame": {
-    "state": "Đang load game",
+    "state": "Đang load mods",
     "largeImageText": "AowVN's Farming Valley",
-    "details": "With %d mods"
+    "details": "%d mods"
   },
   "inGame": {
     "multiPlayer": {
